@@ -21,4 +21,3 @@ Bootstrap5
 
 
 
-Please follow the link for the same project  https://tarunramavath.github.io/T-Shirt-design/
